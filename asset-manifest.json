@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Scout_signin_app/static/css/main.448930be.css",
+    "main.js": "/Scout_signin_app/static/js/main.6d35e4d9.js",
+    "index.html": "/Scout_signin_app/index.html",
+    "main.448930be.css.map": "/Scout_signin_app/static/css/main.448930be.css.map",
+    "main.6d35e4d9.js.map": "/Scout_signin_app/static/js/main.6d35e4d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.448930be.css",
+    "static/js/main.6d35e4d9.js"
+  ]
+}
